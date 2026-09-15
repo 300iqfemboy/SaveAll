@@ -1,4 +1,4 @@
-# SaveAllAttachments
+# SaveAll
 
 SaveAllAttachments is a standalone BetterDiscord plugin that downloads every file attached to one Discord message in a single action.
 
