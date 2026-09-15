@@ -57,6 +57,10 @@ Always inspect third-party plugin source code before installing it. Client modif
 - Discord interface changes can temporarily break context-menu plugins.
 - The plugin has been syntax-checked and tested with mocked BetterDiscord APIs, but every release should also be tested manually in the current Discord Stable client before publication.
 
+## Preview
+
+![SaveAll in Discord](screenshots/preview_upscaled_2x.png)
+
 ## Development disclosure
 
 The initial implementation and repository documentation were created with OpenAI assistance.
